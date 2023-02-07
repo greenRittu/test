@@ -1,0 +1,12 @@
+.App {
+  font-family: Adamina, NettoWeb, Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+li {
+  font-style: italic;
+}
+
+footer {
+  font-weight: bold;
+}
